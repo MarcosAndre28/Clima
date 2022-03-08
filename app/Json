@@ -1,0 +1,44 @@
+{
+"coord": {
+"lon": -46.0152,
+"lat": -17.0194
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 300.58,
+"feels_like": 301.88,
+"temp_min": 300.58,
+"temp_max": 300.58,
+"pressure": 1010,
+"humidity": 61,
+"sea_level": 1010,
+"grnd_level": 954
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.84,
+"deg": 69,
+"gust": 2.87
+},
+"clouds": {
+"all": 79
+},
+"dt": 1646423275,
+"sys": {
+"country": "BR",
+"sunrise": 1646384674,
+"sunset": 1646429240
+},
+"timezone": -10800,
+"id": 3459785,
+"name": "João Pinheiro",
+"cod": 200
+}
